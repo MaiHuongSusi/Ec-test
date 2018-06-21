@@ -1,0 +1,63 @@
+.avt{ 
+    border-radius: 100%;
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.divAvt{
+	height: 160px;
+	width: 100%;
+}
+.imgAvt{
+    width: 100%;
+  	height: auto;
+}
+
+.co1{
+    margin-left: 20px;
+    float: left;
+    border: 2px solid rgb(204, 204, 204);
+    position: relative;
+  	width: 170px;
+  	height: 170px;
+  	overflow: hidden;
+  	border-radius: 50%;
+}
+
+.co2{
+	margin-left: 50px;
+	margin-top: 40px;
+    height: 100%;
+    float: left;
+}
+
+.co3{
+	height: 100%;
+    float: right;
+}
+
+.username{
+	border: 1px solid rgb(204, 204, 204);
+	border-radius: 8px;
+    font-size: 17px;
+    padding: 5px 30px 5px;
+    margin-top: 12%;
+    font-weight: 500;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    height: 650px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
